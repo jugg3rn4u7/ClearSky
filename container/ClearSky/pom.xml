@@ -33,7 +33,7 @@
 				<version>${spring.boot.version}</version>
 				<configuration>
 					<executable>true</executable>
-					<mainClass>io.egen.api.Application</mainClass>
+					<mainClass>io.egen.clearskyboot.Application</mainClass>
 				</configuration>
 				<executions>
 					<execution>
