@@ -80,7 +80,7 @@ public class WeatherController {
 	 * @param city
 	 * @param property (Optional)
 	 * @param grain	(Optional)
-	 * @return DerivedWeatherProperties
+	 * @return Reading
 	 */
 	@RequestMapping(method = RequestMethod.GET, value = URI.LATEST_WEATHER)
 	@ApiOperation(value = Tags.FIND_LATEST_WEATHER, notes = Tags.FIND_LATEST_WEATHER_DESC)
