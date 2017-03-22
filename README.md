@@ -6,10 +6,10 @@ A weather information web application made in Spring MVC and Spring Boot with Do
 **`container`** [*module-container*]: contains SpringBoot version of the same API with Docker configuration
 
 ### For the final module submission, update following urls for your app:    
-**`EC2 Jenkins URL`**: `http://ec2-54-193-96-158.us-west-1.compute.amazonaws.com:8090/`  
-**`Swagger URL for Spring Boot API`**: `http://ec2-54-193-96-158.us-west-1.compute.amazonaws.com/clearsky-boot/api/swagger-ui.html`  
-**`Swagger URL for Spring MVC REST API`**: `http://ec2-54-193-96-158.us-west-1.compute.amazonaws.com/clearsky/api/swagger-ui.html`  
-**`AWS MySQL RDS instance URL`**:`egendbinstance.cvtmhi6romhc.us-west-1.rds.amazonaws.com:3306`
+**`EC2 Jenkins URL`**: `http://ec2-52-53-153-236.us-west-1.compute.amazonaws.com:8090/`  
+**`Swagger URL for Spring Boot API`**: `http://ec2-52-53-153-236.us-west-1.compute.amazonaws.com/clearsky-boot/api/swagger-ui.html`  
+**`Swagger URL for Spring MVC REST API`**: `http://ec2-52-53-153-236.us-west-1.compute.amazonaws.com:81/clearsky/api/swagger-ui.html`  
+**`AWS MySQL RDS instance endpoint`**:`egen-mysql-db.cvtmhi6romhc.us-west-1.rds.amazonaws.com:3306`
 
 `NOTE: THESE URLS MAY CHANGE. AS I'VE USED 2 EC2 INSTANCES AND ALMOST FINISHED UP MY FREE INSTANCE HOURS, I'LL HAVE TO TERMINATE THE INSTANCES AS OF NOW. I HAVE AMI IMAGES USING WHICH I WOULD LAUNCH INSTANCES AGAIN. DOING SO WILL CHANGE THE HOSTNAMES AND IPS. PLEASE MESSAGE ME ON SLACK JUST 15 TO 20 MINUTES EARLY. I'LL LAUNCH INSTANCES, CHANGE URLS IN NGINX AND JENKINS AND TEST THE END-POINTS AT ONCE.`
 
