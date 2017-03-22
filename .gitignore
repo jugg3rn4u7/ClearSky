@@ -12,3 +12,7 @@
 **/RemoteSystemsTempFiles
 
 **/target/*
+
+**/build
+
+**/*.class
